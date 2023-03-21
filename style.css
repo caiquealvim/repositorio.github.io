@@ -162,7 +162,7 @@ main {
 #home {
   height: 100vh;
   width: 100%;
-  background-image: url(/img/EveryIcky.gif);
+  background-image: url(./img/EveryIcky.gif);
   background-size: cover;
   background-origin: fixed;
   flex-direction: column;
